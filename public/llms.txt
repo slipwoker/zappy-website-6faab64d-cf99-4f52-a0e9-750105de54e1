@@ -1,0 +1,89 @@
+# אורי — Generative Engine Optimization Map
+
+> A ספרות/הוצאה לאור business.
+
+---
+
+## Pages
+
+### Home
+https://-6faab64d.zappy5.app
+
+### Books
+https://-6faab64d.zappy5.app/books
+
+### About
+https://-6faab64d.zappy5.app/about
+
+### Contact
+https://-6faab64d.zappy5.app/contact
+
+### Products
+https://-6faab64d.zappy5.app/products
+המוצרים שלנו - אורי
+
+### Cart
+https://-6faab64d.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://-6faab64d.zappy5.app/checkout
+תשלום
+
+### Login
+https://-6faab64d.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://-6faab64d.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://-6faab64d.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://-6faab64d.zappy5.app/product/:slug
+פרטי המוצר - אורי
+
+### Category
+https://-6faab64d.zappy5.app/category/:slug
+מוצרים - אורי
+
+## Legal & Policy
+
+### Privacy Policy
+https://-6faab64d.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-6faab64d.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-6faab64d.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About אורי
+אורי is a business in the ספרות/הוצאה לאור industry.
+
+## Target Audience
+- קוראים צעירים
+- אקדמאים מקצועיים
+- חברי מועדוני ספרים
+- הורים הקוראים לילדיהם
+- קוראים בגמלאות
+
+## Industry
+ספרות/הוצאה לאור
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-6faab64d.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-6faab64d.zappy5.app/robots.txt
